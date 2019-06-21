@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Air KDE 4
+Name[de]= Air KDE 4
+Comment=A breath of old air from pre plasma 5 times
+Comment[de]= Ein Hauch alter Luft aus Zeiten vor Plasma 5
+X-KDE-PluginInfo-Author=The Oxygen Project
+X-KDE-PluginInfo-Email=kde-artists@kde.org
+X-KDE-PluginInfo-Name=org.kde.AirKDE4
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
